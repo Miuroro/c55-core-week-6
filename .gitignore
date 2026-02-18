@@ -3,6 +3,9 @@
 Thumbs.db
 [Dd]esktop.ini
 
+# node_modules
+node_modules/
+
 # hyf
 .hyf/score.json
 

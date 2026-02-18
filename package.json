@@ -1,0 +1,25 @@
+{
+  "name": "c55-core-week-6",
+  "version": "1.0.0",
+  "description": "The week 6 assignment for the HackYourFuture Core program can be found at the following link: https://hub.hackyourfuture.nl/core-program-week-6-assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miuroro/c55-core-week-6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Miuroro/c55-core-week-6/issues"
+  },
+  "homepage": "https://github.com/Miuroro/c55-core-week-6#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "vitest": "^4.0.18"
+  }
+}
