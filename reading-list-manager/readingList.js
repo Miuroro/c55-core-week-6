@@ -1,4 +1,3 @@
-// Place here the file operation functions for loading and saving books
 import fs from 'fs';
 import chalk from 'chalk';
 
