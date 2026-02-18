@@ -57,5 +57,4 @@ if (books.length > 0) {
     console.log(`"${bookToMark.title}" is already marked as read.\n`);
   }
 
-  printSummary();
 }
